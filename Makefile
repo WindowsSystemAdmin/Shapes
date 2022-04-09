@@ -1,7 +1,7 @@
 all: main
 
 CXX = g++
-CXXFLAGS += -g -std=c++20
+CXXFLAGS += -g -std=c++2a
 
 SRCS = $(shell find . -name '.ccls-cache' -type d -prune -o -type f -name '*.cc' -print)
 OBJS = $(SRCS:.cc=.o)
