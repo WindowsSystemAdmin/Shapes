@@ -1,3 +1,4 @@
+[![CodeQL](https://github.com/WindowsSystemAdmin/Shapes/actions/workflows/codeql-analysis.yml/badge.svg?branch=main&event=check_run)](https://github.com/WindowsSystemAdmin/Shapes/actions/workflows/codeql-analysis.yml)
 # Inside the makefile.
 * all - Will make all no run. 
 * clean - Cleans all object files up.
