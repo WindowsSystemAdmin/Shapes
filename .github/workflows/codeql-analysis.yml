@@ -28,7 +28,7 @@ jobs:
       actions: read
       contents: read
       security-events: write
-      statuses: read|write
+      statuses: write
 
     strategy:
       fail-fast: false
