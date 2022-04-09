@@ -22,7 +22,7 @@
 |Rectangle|2|side1, side2|
 |Triangle|4|sidea, base, sidec, height|
 |Trapezoid|5|side1, side2, base1, base2, height|
-## Bugs?
+## Bugs? :beetle:
 If you find anymore bugs.. Feel free to bug me :). Or create a bug report on Github.
 
 Created by Ethan Lin. 
