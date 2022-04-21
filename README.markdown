@@ -1,5 +1,5 @@
 [![CodeQL](https://github.com/WindowsSystemAdmin/Shapes/actions/workflows/codeql.yaml/badge.svg?branch=main&event=push)](https://github.com/WindowsSystemAdmin/Shapes/actions/workflows/codeql.yaml)
-[![C/C++ CI](https://github.com/WindowsSystemAdmin/Shapes/actions/workflows/c-cpp.yaml/badge.svg?event=push)](https://github.com/WindowsSystemAdmin/Shapes/actions/workflows/c-cpp.yaml)
+[![C/C++ CI](https://github.com/WindowsSystemAdmin/Shapes/actions/workflows/c-cpp.yaml/badge.svg?branch=mainevent=push)](https://github.com/WindowsSystemAdmin/Shapes/actions/workflows/c-cpp.yaml)
 # Inside the makefile.
 * all - Will make all no run. 
 * clean - Cleans all object files up.
