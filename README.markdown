@@ -29,4 +29,6 @@ If you find anymore bugs.. Feel free to bug me :). Or create a bug report on Git
 
 Created by Ethan Lin. 
 
+(c)2022 by Ethan Lin.
+
 @WindowsSystemAdmin.
